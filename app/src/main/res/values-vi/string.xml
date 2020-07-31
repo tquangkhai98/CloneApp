@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CloneApplication</string>
+    <string name="home_title">Trang chủ</string>
+    <string name="user_title">Người dùng</string>
+    <string name="home_description">Trang chủ</string>
+    <string name="user_description">Trang cá nhân</string>
+</resources>
