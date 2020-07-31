@@ -1,4 +1,5 @@
-package com.tomoni.cloneapplication.ui.fragment.home
+package com.tomoni.android.cloneapp.fragment.homescreen
+
 
 import androidx.lifecycle.ViewModel
 

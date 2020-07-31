@@ -24,7 +24,7 @@
 
     <fragment
         android:id="@+id/homeScreen"
-        android:name="com.tomoni.cloneapplication.ui.fragment.home.HomeFragment"
+        android:name="com.tomoni.android.cloneapp.fragment.homescreen.HomeFragment"
         android:label="@string/home_title"
         tools:layout="@layout/home_fragment"/>
 </navigation>

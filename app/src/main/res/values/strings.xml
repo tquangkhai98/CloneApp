@@ -20,4 +20,5 @@
     <string name="user_title">User</string>
     <string name="home_description">Home Page</string>
     <string name="user_description">User Page</string>
+    <string name="welcome">Thank you for using this application</string>
 </resources>

@@ -1,11 +1,14 @@
-package com.tomoni.cloneapplication.ui.fragment.user
+@file:Suppress("DEPRECATION")
 
-import androidx.lifecycle.ViewModelProviders
+package com.tomoni.android.cloneapp.fragment.userscreen
+
+
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.lifecycle.ViewModelProviders
 import com.tomoni.android.cloneapp.R
 
 class UserFragment : Fragment() {

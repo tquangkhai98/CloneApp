@@ -57,7 +57,16 @@ dependencies {
     implementation deps.navigation.runtime_ktx
     implementation deps.navigation.fragment_ktx
     implementation deps.navigation.ui_ktx
-    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+
+
+    //impl lifecycle androidx
+    implementation deps.lifecycle.viewmodel_ktx
+    implementation deps.lifecycle.livedata_ktx
+    implementation deps.lifecycle.livecyle_ext
+
+    //imp dagger 2
+    implementation deps.dagger.runtime
+    annotationProcessor deps.dagger.compiler
 
     // Android Testing Support Library's runner and rules
     androidTestImplementation deps.atsl.runner

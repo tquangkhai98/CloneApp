@@ -1,4 +1,4 @@
-package com.tomoni.cloneapplication.ui.fragment.user
+package com.tomoni.android.cloneapp.fragment.userscreen
 
 import androidx.lifecycle.ViewModel
 

@@ -24,7 +24,7 @@
 
     <fragment
             android:id="@+id/userScreen"
-            android:name="com.tomoni.cloneapplication.ui.fragment.user.UserFragment"
+            android:name="com.tomoni.android.cloneapp.fragment.userscreen.UserFragment"
             android:label="@string/user_title"
             tools:layout="@layout/user_fragment"/>
 </navigation>
